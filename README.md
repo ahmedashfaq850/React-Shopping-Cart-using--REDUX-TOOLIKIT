@@ -20,3 +20,6 @@ In this project I am not focused too much on design because the aim of this proj
 
 # Cart Component
 ![image](https://user-images.githubusercontent.com/74646219/190871629-a1cd7b5d-d36c-48d0-8d96-007846307c16.png)
+
+# Redux Devtool
+![image](https://user-images.githubusercontent.com/74646219/190871692-2bc03df0-776d-4752-bbe1-d97ba05ca00d.png)
