@@ -24,7 +24,6 @@ const Cart = () => {
           <button onClick={()=>handleRemove(product.id)} className="del-btn">Remove</button>
         </div>
       ))}
-      <div className="total-amount"><h2>10222</h2></div>
     </div>
   );
 };
